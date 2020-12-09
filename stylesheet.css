@@ -1,0 +1,116 @@
+html {
+  background-color: #000000;
+}
+body {
+
+}
+p {
+  font-size: 14px;
+  font-family: monospace;
+  color: #fff;
+}
+a {
+  color: #EDFFFF;
+}
+img {
+
+}
+h1 {
+  font-size: 40px;
+  font-family: monospace;
+}
+h1:hover {
+  color: #ee9cff;
+}
+h3 {
+  color: white;
+  font-size: 18px;
+  font-family: monospace;
+}
+h5 {
+  font-size: 18px;
+  font-family: monospace;
+  color: white;
+  padding: 15px;
+}
+h5:hover {
+  font-weight: bold;
+  font-style: italic;
+  font-size: 22px;
+}
+a:hover {
+  background-color: #6a00ff;
+}
+#welcome {
+  border-radius: 20px;
+  padding-left: 10%;
+  padding-right: 50%;
+  font-size: 16px;
+}
+#antibodya {
+  /*color: #67afeb;*/
+  background: -webkit-linear-gradient(#67afeb, #fff);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+#glitcha {
+  /*color: #ff9717;*/
+  background: -webkit-linear-gradient(#fff, #ff9717);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+#welcomeimg {
+  align-self: right;
+  position: absolute;
+  padding-left: 1500px;
+}
+#welcomeimg:hover{
+  background-color: #39f345;
+  border-radius: 5px;
+  padding-left: 30%;
+  border-color: #00ff00;
+}
+#holo2 {
+  position: fixed;
+  opacity: 40%;
+  padding-left: 10px;
+}
+#house1 {
+  opacity: 50%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  border-radius: 50%;
+}
+#convo1 {
+  background-image: url(img_hg/blue.gif);
+  background-size: cover;
+}
+#texting {
+  background-image: url(img_hg/ex2.png);
+}
+#texting2 {
+  background-image: url(img_hg/touch4.png);
+}
+#texting3 {
+  background-image: url();
+}
+#housetext1 {
+  font-size: 30px;
+  font-family: monospace;
+}
+#housetour1{
+  opacity: 30%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 100%;
+  position: fixed;
+
+}
+#finalq {
+  text-align: center;
+  padding-top: 30%;
+  font-size: 17px;
+}
